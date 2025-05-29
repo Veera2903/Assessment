@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Planit Suite">
+    <test name="UI Tests">
+        <classes>
+            <class name="tests.firsttest.java">ttetestesttestctestcatestcastestcasetestcasestestcases.testcases.Ftestcases.Fitestcases.Firtestcases.Firstestcases.Firsttestcases.FirstTtestcases.FirstTEtestcases.FirstTtestcases.FirstTetestcases.FirstTestestcases.FirstTesttestcases.FirstTest</class>
+            <class/>
+        </classes>
+    </test>
+</suite>
